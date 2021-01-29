@@ -1,0 +1,119 @@
+{
+  "contractName": "SimpCon",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.7.5+commit.eb77ed08\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/edsonramirez/ChainSkills/private/test-sol-dp1/contracts/SimpCon.sol\":\"SimpCon\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/Users/edsonramirez/ChainSkills/private/test-sol-dp1/contracts/SimpCon.sol\":{\"keccak256\":\"0xd0e0588f7093b997ea2b5454d393f1f05c563f7dd75d14dff8364ebd590d7be7\",\"urls\":[\"bzz-raw://85647a87e57c2d88b053c57a2d75c62f7defe334e60ff2e20213389cd3e951f5\",\"dweb:/ipfs/QmTzW1WtetM5Z4HhyHsVoPZwwHAV5hRBTcjoX8kAkoVnxu\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212204e6317b01ddc79aee5fba236a07407cc1f9674aceb590669c7b4618b3381884464736f6c63430007050033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212204e6317b01ddc79aee5fba236a07407cc1f9674aceb590669c7b4618b3381884464736f6c63430007050033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "25:22:1:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "25:22:1:-:0;;;;;",
+  "source": "pragma solidity ^0.7.5;\n\ncontract SimpCon {\n\t\n}",
+  "sourcePath": "/Users/edsonramirez/ChainSkills/private/test-sol-dp1/contracts/SimpCon.sol",
+  "ast": {
+    "absolutePath": "/Users/edsonramirez/ChainSkills/private/test-sol-dp1/contracts/SimpCon.sol",
+    "exportedSymbols": {
+      "SimpCon": [
+        35
+      ]
+    },
+    "id": 36,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 34,
+        "literals": [
+          "solidity",
+          "^",
+          "0.7",
+          ".5"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 35,
+        "linearizedBaseContracts": [
+          35
+        ],
+        "name": "SimpCon",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 36,
+        "src": "25:22:1"
+      }
+    ],
+    "src": "0:47:1"
+  },
+  "legacyAST": {
+    "absolutePath": "/Users/edsonramirez/ChainSkills/private/test-sol-dp1/contracts/SimpCon.sol",
+    "exportedSymbols": {
+      "SimpCon": [
+        35
+      ]
+    },
+    "id": 36,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 34,
+        "literals": [
+          "solidity",
+          "^",
+          "0.7",
+          ".5"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 35,
+        "linearizedBaseContracts": [
+          35
+        ],
+        "name": "SimpCon",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 36,
+        "src": "25:22:1"
+      }
+    ],
+    "src": "0:47:1"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.7.5+commit.eb77ed08.Emscripten.clang"
+  },
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0x6AB75180D1D6C80eB02348ab4C46f159cb117c57",
+      "transactionHash": "0x9fe9561a9cdb47bbf0e6fb45767a140c9cb32d5ca41147968576e4b1bd8499e6"
+    }
+  },
+  "schemaVersion": "3.3.2",
+  "updatedAt": "2021-01-28T23:09:20.845Z",
+  "networkType": "ethereum",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
